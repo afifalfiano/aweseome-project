@@ -1,2 +1,2 @@
 # aweseome-project
-My Awesome Project
+My Awesome Project SCM
